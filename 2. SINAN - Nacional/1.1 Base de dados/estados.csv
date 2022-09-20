@@ -1,0 +1,28 @@
+codigo_uf;uf;nome;latitude;longitude;Qt
+11;RO;Rondônia;-10,83;-63,34;12743
+12;AC;Acre;-8,77;-70,55;7672
+13;AM;Amazonas;-3,47;-65,1;55680
+14;RR;Roraima;1,99;-61,33;3391
+15;PA;Pará;-3,79;-52,48;79138
+16;AP;Amapá;1,41;-51,77;5052
+17;TO;Tocantins;-9,46;-48,26;4577
+21;MA;Maranhão;-5,42;-45,44;50306
+22;PI;Piauí;-6,6;-42,28;21935
+23;CE;Ceará;-5,2;-39,53;83565
+24;RN;Rio Grande do Norte;-5,81;-36,59;24408
+25;PB;Paraíba;-7,28;-36,72;26242
+26;PE;Pernambuco;-8,38;-37,86;103475
+27;AL;Alagoas;-9,62;-36,82;25798
+28;SE;Sergipe;-10,57;-37,45;13972
+29;BA;Bahia;-13,29;-41,71;127857
+31;MG;Minas Gerais;-18,1;-44,38;91659
+32;ES;Espírito Santo;-19,19;-40,34;28104
+33;RJ;Rio de Janeiro;-22,25;-42,66;282456
+35;SP;São Paulo;-22,19;-48,79;372037
+41;PR;Paraná;-24,89;-51,55;56377
+42;SC;Santa Catarina;-27,45;-50,95;40365
+43;RS;Rio Grande do Sul;-30,17;-53,5;116706
+50;MS;Mato Grosso do Sul;-20,51;-54,54;20996
+51;MT;Mato Grosso;-12,64;-55,42;25968
+52;GO;Goiás;-15,98;-49,86;21070
+53;DF;Distrito Federal;-15,83;-47,86;10427
